@@ -1,6 +1,6 @@
 # MIE1050Sensoring
 Course Project for Arduino Sensor Board
-
+By: Ye Wang and Wenhao Li
 Sensor board for bedroom environment detection and calculation of Sleep Index (SI)
 
 KNN algorithms were trained by 100 datapoints collected to predict the Sleeping rank of proposed room
